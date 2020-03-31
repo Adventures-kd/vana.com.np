@@ -2495,96 +2495,44 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-image: url("../../../assets/images/josefin-htcglidy-2u-unsplash.jpg");
 }
-.cid-rTTxLVYZZc {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rUPyvIVLxP {
+  background-image: url("../../../assets/images/img-565-2000x1500.jpg");
 }
-.cid-rTTxLVYZZc .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rTTxLVYZZc .video-block {
-    width: 100% !important;
+@media (min-width: 992px) {
+  .cid-rUPyvIVLxP .mbr-figure {
+    padding-left: 4rem;
   }
 }
-.cid-rUgrOPzDyz {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/josefin-htcglidy-2u-unsplash.jpg");
+@media (max-width: 991px) {
+  .cid-rUPyvIVLxP .mbr-figure {
+    padding-top: 3rem;
+  }
 }
-.cid-rTTxov5KWH {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-rUPBitQyfR {
+  background-image: url("../../../assets/images/dsc-6426-2000x2997.jpeg");
 }
-.cid-rTTxov5KWH .mbr-slider .carousel-control {
-  background: #1b1b1b;
+@media (min-width: 992px) {
+  .cid-rUPBitQyfR .mbr-figure {
+    padding-left: 4rem;
+  }
 }
-.cid-rTTxov5KWH .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+@media (max-width: 991px) {
+  .cid-rUPBitQyfR .mbr-figure {
+    padding-top: 3rem;
+  }
 }
-.cid-rTTxov5KWH .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-rUPBitQyfR .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-rTTxov5KWH .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rTTxov5KWH .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #ffffff;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-rTTxov5KWH .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rTTxov5KWH .mbr-gallery-item > div:hover:before {
-  opacity: 0.2 !important;
-}
-.cid-rTTxov5KWH .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rTTxov5KWH .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #ffffff !important;
-  opacity: 0.2;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-}
-.cid-rUgshFWmXX {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/josefin-htcglidy-2u-unsplash.jpg");
-}
-.cid-rUgshFWmXX H2 {
-  text-align: center;
+@media (min-width: 992px) {
+  .cid-rUPBitQyfR .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
 }
 .cid-rUqjsksW8s {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #ff1400, #8c0404);
+  background-image: url("../../../assets/images/haojue-nk150-price-nepal-red-scaled-1200x799.jpg");
 }
 @media (min-width: 992px) {
   .cid-rUqjsksW8s .mbr-figure {
@@ -2606,10 +2554,15 @@ section.lazy-placeholder:after {
     padding-right: 4rem;
   }
 }
+.cid-rUqjsksW8s .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rUqjsksW8s .mbr-text,
+.cid-rUqjsksW8s .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rUqj0UvqrU {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #2e7d32, #a5d6a7);
+  background-image: url("../../../assets/images/dji-0047-pano-2000x1252.jpg");
 }
 @media (min-width: 992px) {
   .cid-rUqj0UvqrU .mbr-figure {
@@ -2621,10 +2574,15 @@ section.lazy-placeholder:after {
     padding-top: 3rem;
   }
 }
+.cid-rUqj0UvqrU .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rUqj0UvqrU .mbr-text,
+.cid-rUqj0UvqrU .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rUqewoifRI {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #ffab91, #d84315);
+  background-image: url("../../../assets/images/dsc06561-2000x1336.jpg");
 }
 @media (min-width: 992px) {
   .cid-rUqewoifRI .mbr-figure {
